@@ -1,5 +1,5 @@
 <h1 align="center">hi i cowation</h1>
-<h3 align="center">he him who like java script and lua and java without the script and c sharp</h3>
+<h3 align="center">am who like java script and lua and java without the script and c sharp + SWIFT!!!!! </h3>
 
 - i am making **crap bot 2**
 - i am ALSO making **other stuff i forgot**

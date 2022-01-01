@@ -1,4 +1,4 @@
-## cowation
+![Banner](https://cdn.discordapp.com/attachments/841072320532709376/926728130767487036/banner.svg)
 
 Welcome to my github profile
 sometimes im very active for short bursts of time so if you see any activity from me in the past 4 weeks its a miracle

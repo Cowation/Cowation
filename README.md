@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">🥶</h1>
+<h1 align="center">🥶</h1>
 
 [![Banner](https://cdn.discordapp.com/attachments/841072320532709376/926728130767487036/banner.svg)](https://knoddy.me)
 

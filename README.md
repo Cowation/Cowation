@@ -13,6 +13,7 @@
 ![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=appveyor&logo=cplusplus&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Node.JS-informational?style=appveyor&logo=nodedotjs&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Server-Express-informational?style=appveyor&logo=express&logoColor=white&color=blue)
+![](https://img.shields.io/badge/UI-Next.js-informational?style=appveyor&logo=nextdotjs&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/UI-Svelte-informational?style=appveyor&logo=svelte&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/UI-React-informational?style=appveyor&logo=react&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Shell-Git_Bash-informational?style=appveyor&logo=git&logoColor=white&color=blue)

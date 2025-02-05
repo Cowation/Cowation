@@ -1,6 +1,6 @@
 <h1 align="center">👋</h1>
 
-[![Banner](https://cdn.discordapp.com/attachments/841072320532709376/926728130767487036/banner.svg)](https://knoddy.net)
+<a href="https://www.knoddy.net"><img width="100%" src="https://raw.githubusercontent.com/Cowation/Cowation/refs/heads/master/github-banner.png" alt="Banner"></a> 
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=appveyor&logo=windows&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=appveyor&logo=visualstudiocode&logoColor=white&color=blue)
@@ -20,3 +20,5 @@
 ![](https://img.shields.io/badge/Cloud-My_PC-informational?style=appveyor&logo=pcgamingwiki&logoColor=white&color=blue)
 
 Hi, I'm Nathan. I'm passionate about software development and hardware!
+
+###### I sometimes go by Knoddy.
